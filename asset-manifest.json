@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Drug-Search-App/static/css/main.23c81f45.css",
+    "main.js": "/Drug-Search-App/static/js/main.9a71e9ef.js",
+    "static/js/453.2d496f4b.chunk.js": "/Drug-Search-App/static/js/453.2d496f4b.chunk.js",
+    "index.html": "/Drug-Search-App/index.html",
+    "main.23c81f45.css.map": "/Drug-Search-App/static/css/main.23c81f45.css.map",
+    "main.9a71e9ef.js.map": "/Drug-Search-App/static/js/main.9a71e9ef.js.map",
+    "453.2d496f4b.chunk.js.map": "/Drug-Search-App/static/js/453.2d496f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c81f45.css",
+    "static/js/main.9a71e9ef.js"
+  ]
+}
